@@ -4,12 +4,12 @@
       "name": "釣れるものを変えるアドオン 食べ物Ver",
       "description": "釣れるものを食べ物だけになる",
       "uuid": "9d8af8da-101a-427a-aed1-4be08a4cbe55",
-      "version": [ 1, 0, 0 ],
+      "version": [ 1, 1, 0 ],
       "min_engine_version": [ 1, 21, 90 ]
     },
     "modules": [
       {
-        "version": [ 1, 0, 0 ],
+        "version": [ 1, 1, 0 ],
         "type": "data",
         "uuid": "7d646f6f-8300-494e-bbb6-e8f1304aecc5",
         "description": "data module"
